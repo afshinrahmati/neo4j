@@ -6,14 +6,14 @@
 1. Neo4j is a graph-based database.
 2. It has a query language called Cypher.
 3. It is written in Java.
-4. it is approprate for that' data is not important but the relation is very important for us
+4. it is approprate for that' data is not important beacese each time it can be change but the relation is very important for us
 ### <img src="./img/image1.png" width="50">
 *cilcle in image call Node
 * ----> call relation or edges<edg>
 all the edges are One way.
 me found the keyboard and keyboard not dound me
 ### Why is it Good?
-Neo4j is ideal for handling irregular data with strong relationships.
+1. Neo4j is ideal for handling irregular data with strong relationships.
 
 ### Where is it Useful?
 Neo4j can be particularly useful in scenarios such as:
@@ -21,13 +21,24 @@ Neo4j can be particularly useful in scenarios such as:
 - **E-commerce**: On a shopping website, if you're browsing for a keyboard and close all your tabs, you might then see a targeted advertisement when you visit a dictionary site.
 - **Social Networks**: On LinkedIn, you might see that "Mmd" follows someone you also follow, even though you don't know "Mmd" personally. This common connection is an example of how Neo4j can analyze and display relationships between users.
 ### <img src="./img/images2.jpeg" width="50">
-#
+## wbsit 
+# cypher
+1. developmet > documation > cypher
+* Clauses has basi query.
+* Syntax
+
 ## Getting Started
 
 ### Prerequisites
 - Java Development Kit (JDK)
 - Neo4j Community Edition
+## sql and eo4js:
+1. in sql we have to join but in neo4js we traverse 
+* join in sql is very heavy and complect and lower our code but traverse is quickly and not effect on the speed querycode.
+2. Top use Case:
+our data vary each time and so it do not good use sql
 
+### <img src="./img/image3.png" width="50">
 ### Installation
 
 1. **Install Neo4j**:
